@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abirami</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="https://www.eejournal.com/wp-content/uploads/2017/05/sponsor_tech_10-1024x576.jpg" width="1000px" height="450px">
+<img src="https://www.eejournal.com/wp-content/uploads/2017/05/sponsor_tech_10-1024x576.jpg" width="1500px" height="450px">
 
 - 🔭 I’m currently working on **Infosys Ltd**
 
